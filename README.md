@@ -5,5 +5,3 @@ Project designed to provide JPA integration with relational database HSQLDB Hype
 
 This example use Hibernate/JPA 4.x
 
-List TODOs:
-- Make other relationships
